@@ -21,8 +21,8 @@
 🛠️ Me gusta crear cosas que funcionen, pero también que se vean bien. Busco aprender, experimentar y compartir lo que descubro en el camino.  
 
 🎯 Actualmente me enfoco en:  
-- Desarrollo Web **Front-End** 🌐  
-- Introducción a **Back-End** ⚙️  
+- Introducción a **Front-End** 🌐  
+- Desarrollo Web **Back-End** ⚙️  
 - Lógica de programación y estructuras 🧩  
 - Herramientas modernas como Git, Figma y VS Code 💻  
 
@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
@@ -57,7 +56,7 @@
 ## 📚 Actualmente aprendiendo
 
 - 🔹 Fundamentos de **NestJS** y arquitectura modular  
-- 🔹 Introducción a **.NET** y programación orientada a objetos  
+- 🔹 Introducción a **ASP.NET Core** y programación orientada a objetos con C#  
 - 🔹 Buenas prácticas en **bases de datos relacionales**  
 - 🔹 Patrones básicos en desarrollo **backend**  
 
@@ -66,12 +65,12 @@
 ## 📊 Mis estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JimenaJG&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimenaJG&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimenaJG&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
@@ -83,7 +82,7 @@ Aquí algunos proyectos que muestran mi aprendizaje y práctica en frontend y ba
 - 🌐 **Portfolio Web** → Mi espacio personal en la web, creado con HTML, CSS y JavaScript.  
 - 🗄️ **Gestor de tareas** → Una aplicación sencilla para practicar CRUD con **Node.js + Express** y MySQL.  
 - ⚙️ **API básica con NestJS** → Proyecto inicial explorando la arquitectura modular y controladores.  
-- 🖥️ **Mini aplicación en .NET** → Primer acercamiento al backend con C# y MVC.  
+- 🖥️ **Mini aplicación con ASP.NET Core** → Primer acercamiento al backend con C# y MVC.  
 
 > ✨ Siempre trabajando en nuevos proyectos para aprender y mejorar 🚀
 
@@ -93,7 +92,7 @@ Aquí algunos proyectos que muestran mi aprendizaje y práctica en frontend y ba
 
 - 🧠 Me gusta entender no solo el **qué**, sino el **cómo** funcionan las tecnologías  
 - ⚙️ Estoy aprendiendo los fundamentos del backend con **Node.js**, **Express** y dando mis primeros pasos en **NestJS**  
-- 🖥️ También estoy explorando el ecosistema de **.NET** para ampliar mi visión como desarrolladora  
+- 🖥️ También estoy explorando el ecosistema de **ASP.NET Core** para ampliar mi visión como desarrolladora  
 - 🗄️ Me interesa la organización y optimización de datos con **MySQL**  
 - 🎨 Disfruto combinar lo técnico con lo visual: un frontend atractivo junto con un backend sólido  
 - 🐞 Creo que los errores son aliados: cada *bug* me ayuda a comprender mejor la lógica detrás del código  
@@ -105,6 +104,8 @@ Aquí algunos proyectos que muestran mi aprendizaje y práctica en frontend y ba
 
 <p align="center">
   <a href="jimena.jimenez.gutierrez@est.una.ac.cr"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ </a>
+</p>
 
 ---
 
