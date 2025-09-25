@@ -77,10 +77,6 @@
 
 ## 🚀 Proyectos destacados
 
-Aquí algunos proyectos que muestran mi aprendizaje y práctica en frontend y backend:  
-
-- 🌐 **Portfolio Web** → Mi espacio personal en la web, creado con HTML, CSS y JavaScript.  
-- 🗄️ **Gestor de tareas** → Una aplicación sencilla para practicar CRUD con **Node.js + Express** y MySQL.  
 - ⚙️ **API básica con NestJS** → Proyecto inicial explorando la arquitectura modular y controladores.  
 - 🖥️ **Mini aplicación con ASP.NET Core** → Primer acercamiento al backend con C# y MVC.  
 
@@ -90,12 +86,10 @@ Aquí algunos proyectos que muestran mi aprendizaje y práctica en frontend y ba
 
 ## ✨ Unas curiosidades sobre mí
 
-- 🧠 Me gusta entender no solo el **qué**, sino el **cómo** funcionan las tecnologías  
 - ⚙️ Estoy aprendiendo los fundamentos del backend con **Node.js**, **Express** y dando mis primeros pasos en **NestJS**  
 - 🖥️ También estoy explorando el ecosistema de **ASP.NET Core** para ampliar mi visión como desarrolladora  
 - 🗄️ Me interesa la organización y optimización de datos con **MySQL**  
 - 🎨 Disfruto combinar lo técnico con lo visual: un frontend atractivo junto con un backend sólido  
-- 🐞 Creo que los errores son aliados: cada *bug* me ayuda a comprender mejor la lógica detrás del código  
 - 🚀 Me motiva aprender sobre **mejores prácticas**, control de versiones con Git y flujos de trabajo colaborativos en GitHub  
 
 ---
